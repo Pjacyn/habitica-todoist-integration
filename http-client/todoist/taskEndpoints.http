@@ -1,0 +1,1 @@
+GET https://api.todoist.com/rest/v2/tasksAuthorization: Bearer {{apiToken}}>> {{responseFolder}}/todoist/r.json###
